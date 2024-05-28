@@ -25,14 +25,51 @@
 }
 nav{
     background: linear-gradient(#1032c9a9, #1a63eac0);
+    
     height: 10vh;
-   
+    
 }
+
+
+  a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(247, 245, 245);
+    font-family: "Karla", sans-serif;
+    font-size: 20px;
+    justify-content: space-around;
+    
+  }
+
+  a:hover{
+   color: black;
+    text-decoration: underline;
+  }
+
 
   main{
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
+  }
+  article{
+   
+
+  }
+  h2{
+
+    text-align: center;
+    font-family: "karla",sans-serif;
+    font-size: 33px;
+    box-shadow: 0px 1px 0px  rgba(0, 0, 0, 0.514);
+   
+  }
+
+  p{
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+
   }
 
     
