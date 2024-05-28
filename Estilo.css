@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+ header{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    font-size: 15px;
+    font-family:"Karla", sans-serif; 
+    color: white;
+    font-weight: bold;
+    background-color:#1032c9a9 ;
+    width: 100%vh;
+    height: 250px;
+    background-size: cover;
+   
+   
+}
+nav{
+    background: linear-gradient(#1032c9a9, #1a63eac0);
+    height: 10vh;
+   
+}
+
+  main{
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+  }
+
+    
+  
