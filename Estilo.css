@@ -104,8 +104,10 @@ nav{
       border-radius: 12px ;
     }
 #area{
+  text-indent: 15px;
   height: 200px;
   width: 350px;
   border-radius: 15px;
+  
 }
     
