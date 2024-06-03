@@ -110,4 +110,26 @@ nav{
   border-radius: 15px;
   
 }
+div.video{
+ 
+  margin: -1px 0px 30px 0px;
+  padding: 20px;
+  position: relative;
+  padding-bottom: 58%;
+  
+}
+
+
+div.video >iframe{
+  position: absolute;
+  top:4% ;
+  left: 4%;
+  width:94% ;
+  height: 89%;
+
+}
     
+footer{
+  background-color: #1032c9a9;
+  text-align: center;
+}
